@@ -36,5 +36,3 @@ This is a web-based autocorrect and suggestion system for Braille input using QW
 - Learning from user feedback.
 - Accessibility features like speech.
 
-
-Created as a solution to the **Thinkerbell Labs Braille Autocorrect Task**.
